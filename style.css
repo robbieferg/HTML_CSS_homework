@@ -1,0 +1,49 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body > header {
+    background-color: dodgerblue;
+    color: white;
+}
+
+body > main {
+    text-align:left;
+    margin-left:120px;
+    margin-right:120px
+}
+
+#logo {
+    padding:10px
+}
+
+nav > ul {
+    list-style: none;
+    margin-left:10px
+}
+
+nav > ul > li > a {
+    color: white;
+}
+
+body > form {
+    margin-left:120px;
+    margin-right:120px
+}
+
+body > aside {
+    margin-left:120px;
+    margin-right:120px
+}
+
+#comments {
+    height:100px;
+    width:1200px
+}
+
+body > footer {
+    padding: 16px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}
